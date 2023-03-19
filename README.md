@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhijeetsaraf
-- 👀 I’m interested in product design
+- 👀 I’m a Product Designer
 - 🌱 I’m currently learning prototyping through code
 - 💞️ I’m looking to collaborate on simple games
 - 📫 How to reach me abhi.saraf25@gmail.com

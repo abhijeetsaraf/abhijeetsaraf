@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhijeetsaraf
 - 👀 I’m a Product Designer
 - 🌱 I’m currently learning prototyping through code
-- 💞️ I’m looking to collaborate on simple games
+- 💞️ Running around design systems
 - 📫 How to reach me abhi.saraf25@gmail.com
 
 <!---
